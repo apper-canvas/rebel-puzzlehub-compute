@@ -8,8 +8,8 @@ import PuzzleTypeSelector from '@/components/molecules/PuzzleTypeSelector'
 import SudokuGrid from '@/components/molecules/SudokuGrid'
 import GameModal from '@/components/organisms/GameModal'
 import Spinner from '@/components/atoms/Spinner'
+import Button from '@/components/atoms/Button'
 import ApperIcon from '@/components/ApperIcon'
-
 const PuzzleArena = () => {
   const [puzzles, setPuzzles] = useState([])
   const [selectedPuzzle, setSelectedPuzzle] = useState(null)
