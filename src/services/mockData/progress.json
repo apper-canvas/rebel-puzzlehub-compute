@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "totalCompleted": 47,
+    "currentStreak": 12,
+    "bestStreak": 18,
+    "favoriteType": "sudoku",
+    "achievements": [
+      "First Puzzle Solved",
+      "Speed Demon",
+      "Puzzle Master",
+      "Daily Player",
+      "Logic Lover",
+      "Sudoku Specialist"
+    ]
+  }
+]

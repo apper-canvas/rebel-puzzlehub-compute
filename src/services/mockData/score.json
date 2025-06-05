@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "puzzleId": "1",
+    "playerName": "Alice Chen",
+    "time": 245,
+    "points": 455,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "puzzleId": "1",
+    "playerName": "Bob Wilson",
+    "time": 180,
+    "points": 520,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "3",
+    "puzzleId": "2",
+    "playerName": "Carol Davis",
+    "time": 420,
+    "points": 560,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "4",
+    "puzzleId": "1",
+    "playerName": "David Kim",
+    "time": 195,
+    "points": 510,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "5",
+    "puzzleId": "3",
+    "playerName": "Emma Rodriguez",
+    "time": 780,
+    "points": 340,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "6",
+    "puzzleId": "4",
+    "playerName": "Frank Miller",
+    "time": 125,
+    "points": 375,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "7",
+    "puzzleId": "7",
+    "playerName": "Grace Liu",
+    "time": 85,
+    "points": 415,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "8",
+    "puzzleId": "10",
+    "playerName": "Henry Johnson",
+    "time": 45,
+    "points": 155,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "9",
+    "puzzleId": "2",
+    "playerName": "Ivy Park",
+    "time": 380,
+    "points": 620,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "10",
+    "puzzleId": "5",
+    "playerName": "Jack Thompson",
+    "time": 290,
+    "points": 310,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "11",
+    "puzzleId": "1",
+    "playerName": "Karen Smith",
+    "time": 210,
+    "points": 490,
+    "date": "2024-01-14"
+  },
+  {
+    "id": "12",
+    "puzzleId": "11",
+    "playerName": "Leo Garcia",
+    "time": 95,
+    "points": 205,
+    "date": "2024-01-14"
+  },
+  {
+    "id": "13",
+    "puzzleId": "8",
+    "playerName": "Maya Patel",
+    "time": 320,
+    "points": 480,
+    "date": "2024-01-14"
+  },
+  {
+    "id": "14",
+    "puzzleId": "3",
+    "playerName": "Noah Williams",
+    "time": 690,
+    "points": 380,
+    "date": "2024-01-14"
+  },
+  {
+    "id": "15",
+    "puzzleId": "12",
+    "playerName": "Olivia Brown",
+    "time": 165,
+    "points": 435,
+    "date": "2024-01-14"
+  }
+]

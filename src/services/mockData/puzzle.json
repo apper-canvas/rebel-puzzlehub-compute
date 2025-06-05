@@ -1,0 +1,224 @@
+[
+  {
+    "id": "1",
+    "type": "sudoku",
+    "difficulty": "easy",
+    "timeLimit": 600,
+    "data": {
+      "grid": [
+        [5, 3, 0, 0, 7, 0, 0, 0, 0],
+        [6, 0, 0, 1, 9, 5, 0, 0, 0],
+        [0, 9, 8, 0, 0, 0, 0, 6, 0],
+        [8, 0, 0, 0, 6, 0, 0, 0, 3],
+        [4, 0, 0, 8, 0, 3, 0, 0, 1],
+        [7, 0, 0, 0, 2, 0, 0, 0, 6],
+        [0, 6, 0, 0, 0, 0, 2, 8, 0],
+        [0, 0, 0, 4, 1, 9, 0, 0, 5],
+        [0, 0, 0, 0, 8, 0, 0, 7, 9]
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "type": "sudoku",
+    "difficulty": "medium",
+    "timeLimit": 900,
+    "data": {
+      "grid": [
+        [0, 0, 0, 6, 0, 0, 4, 0, 0],
+        [7, 0, 0, 0, 0, 3, 6, 0, 0],
+        [0, 0, 0, 0, 9, 1, 0, 8, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 5, 0, 1, 8, 0, 0, 0, 3],
+        [0, 0, 0, 3, 0, 6, 0, 4, 5],
+        [0, 4, 0, 2, 0, 0, 0, 6, 0],
+        [9, 0, 3, 0, 0, 0, 0, 0, 0],
+        [0, 2, 0, 0, 0, 0, 1, 0, 0]
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "type": "sudoku",
+    "difficulty": "hard",
+    "timeLimit": 1200,
+    "data": {
+      "grid": [
+        [0, 0, 0, 0, 0, 0, 0, 1, 0],
+        [4, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 6, 0, 2],
+        [0, 0, 0, 0, 0, 3, 0, 7, 0],
+        [5, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 4, 0, 0, 0, 0, 0],
+        [0, 0, 0, 2, 0, 0, 0, 6, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 3],
+        [0, 7, 0, 0, 0, 0, 0, 0, 0]
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "type": "jigsaw",
+    "difficulty": "easy",
+    "timeLimit": 300,
+    "data": {
+      "pieces": 12,
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    }
+  },
+  {
+    "id": "5",
+    "type": "jigsaw",
+    "difficulty": "medium",
+    "timeLimit": 600,
+    "data": {
+      "pieces": 24,
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop"
+    }
+  },
+  {
+    "id": "6",
+    "type": "jigsaw",
+    "difficulty": "hard",
+    "timeLimit": 900,
+    "data": {
+      "pieces": 48,
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop"
+    }
+  },
+  {
+    "id": "7",
+    "type": "logic",
+    "difficulty": "easy",
+    "timeLimit": 300,
+    "data": {
+      "question": "If all roses are flowers and some flowers are red, can we conclude that some roses are red?",
+      "options": ["Yes", "No", "Cannot be determined"],
+      "answer": "Cannot be determined"
+    }
+  },
+  {
+    "id": "8",
+    "type": "logic",
+    "difficulty": "medium",
+    "timeLimit": 600,
+    "data": {
+      "question": "In a race, if A finishes before B, and B finishes before C, but C finishes before D, what is the order?",
+      "options": ["A, B, C, D", "A, C, B, D", "C, A, B, D", "A, B, D, C"],
+      "answer": "A, B, C, D"
+    }
+  },
+  {
+    "id": "9",
+    "type": "crossword",
+    "difficulty": "easy",
+    "timeLimit": 600,
+    "data": {
+      "clues": {
+        "across": {
+          "1": "Feline pet (3)",
+          "4": "Flying mammal (3)"
+        },
+        "down": {
+          "1": "Vehicle (3)",
+          "2": "Opposite of hot (4)"
+        }
+      },
+      "grid": [
+        ["C", "A", "T"],
+        ["A", "", ""],
+        ["R", "", ""],
+        ["", "B", "A", "T"]
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "type": "trivia",
+    "difficulty": "easy",
+    "timeLimit": 180,
+    "data": {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": "Paris",
+      "category": "Geography"
+    }
+  },
+  {
+    "id": "11",
+    "type": "trivia",
+    "difficulty": "medium",
+    "timeLimit": 180,
+    "data": {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "category": "Science"
+    }
+  },
+  {
+    "id": "12",
+    "type": "trivia",
+    "difficulty": "hard",
+    "timeLimit": 240,
+    "data": {
+      "question": "Who wrote the novel '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+      "answer": "George Orwell",
+      "category": "Literature"
+    }
+  },
+  {
+    "id": "13",
+    "type": "logic",
+    "difficulty": "hard",
+    "timeLimit": 900,
+    "data": {
+      "question": "A man lives on the 20th floor of an apartment building. Every morning he takes the elevator down to the ground floor. When he comes home, he takes the elevator to the 10th floor and walks the rest of the way... except on rainy days, when he takes the elevator all the way to the 20th floor. Why?",
+      "options": ["He likes exercise", "The elevator breaks after 10th floor", "He can't reach the 20th floor button", "He meets friends on 10th floor"],
+      "answer": "He can't reach the 20th floor button"
+    }
+  },
+  {
+    "id": "14",
+    "type": "crossword",
+    "difficulty": "medium",
+    "timeLimit": 900,
+    "data": {
+      "clues": {
+        "across": {
+          "1": "Large body of water (5)",
+          "6": "Flying insect (3)",
+          "8": "Citrus fruit (6)"
+        },
+        "down": {
+          "1": "Aquatic mammal (5)",
+          "2": "Tree fruit (5)",
+          "3": "Night bird (3)"
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "type": "crossword",
+    "difficulty": "hard",
+    "timeLimit": 1200,
+    "data": {
+      "clues": {
+        "across": {
+          "1": "Ancient Egyptian structure (7)",
+          "7": "Musical instrument (5)",
+          "9": "Mythical creature (6)",
+          "11": "Precious stone (7)"
+        },
+        "down": {
+          "1": "Writing instrument (3)",
+          "2": "Season (6)",
+          "3": "Ocean predator (5)",
+          "4": "Breakfast food (4)"
+        }
+      }
+    }
+  }
+]

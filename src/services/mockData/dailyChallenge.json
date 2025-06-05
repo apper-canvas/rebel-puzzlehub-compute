@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "date": "2024-01-15",
+    "puzzleId": "2",
+    "participants": 234,
+    "topScore": 680
+  },
+  {
+    "id": "2",
+    "date": "2024-01-14",
+    "puzzleId": "8",
+    "participants": 189,
+    "topScore": 520
+  },
+  {
+    "id": "3",
+    "date": "2024-01-13",
+    "puzzleId": "1",
+    "participants": 267,
+    "topScore": 575
+  },
+  {
+    "id": "4",
+    "date": "2024-01-12",
+    "puzzleId": "10",
+    "participants": 312,
+    "topScore": 180
+  },
+  {
+    "id": "5",
+    "date": "2024-01-11",
+    "puzzleId": "4",
+    "participants": 156,
+    "topScore": 420
+  }
+]
